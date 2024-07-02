@@ -7,7 +7,7 @@ public class GenericsExampleList {
     public static void main(String[] args) {
         List listaSemGenerics = new ArrayList();
         listaSemGenerics.add("Elemento 1");
-        listaSemGenerics.add(10);
+        listaSemGenerics.add(10); 
 
         List<String> listaGenerics = new ArrayList<>();
         listaGenerics.add("10");
