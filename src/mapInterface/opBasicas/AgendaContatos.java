@@ -1,4 +1,4 @@
-package mapInterface;
+package mapInterface.opBasicas;
 
 import java.util.HashMap;
 import java.util.Map;

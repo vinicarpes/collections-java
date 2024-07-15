@@ -1,4 +1,4 @@
-package mapInterface;
+package mapInterface.opBasicas;
 
 public class Contato {
     private String nome;
